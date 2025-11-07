@@ -1,0 +1,8 @@
+Task for you to learn:
+- learn and master the basic linux commands and the linux file systems.
+- learn git version control system and github navigation.
+- learn project management and organisation.
+
+To improve your knowledge you can further learn:
+- linux user management
+- permissions management
